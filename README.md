@@ -14,7 +14,7 @@ Note: Be sure to open the link to obtain the software package. 🚀
 ## 🎥 Overview of CapCut Pro  
 CapCut Pro is known for its superior capabilities that allow users to explore their videography talents. From professional editing to creating creative clips, this software offers a full suite of tools for diverse creative needs. Whether you are interested in video editing, effect creation, or animation, CapCut Pro will be your trusted companion. 
 
-## 🌟 Noteworthy Features  
+## 🌟 Noteworthy Features   
 Real-time Effects: Utilize real-time effects functionality to create captivating videos.  
 Complete Access: This version of CapCut Pro is provided to you without prior activation.  
 Intuitive User Interface: The user-friendly interface of CapCut Pro makes it easy to experiment with various tools.  
