@@ -2,7 +2,7 @@
 Welcome to the CapCut Pro repository! ✂️ This is your reliable source for the free version of CapCut Pro, an amazing tool for video creation and editing. Whether you are just starting or are already an experienced video editor, CapCut Pro offers a wealth of features to help bring your creative ideas to life. 
   
 ## 📁 Repository Overview    
-- Name: CapCut Pro   
+- Name: CapCut Pro    
 - Description: An opportunity to access CapCut Pro for free. Tags: CapCut-Pro-2024-free, download CapCut Pro at no charge, fully functional free version.  
 - Topics: capcut, capcut-pro, video-editor, free-content, video-editing, pro-version 
 
